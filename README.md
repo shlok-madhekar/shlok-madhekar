@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch, Nginx, LLM Training**
 
-- 👨‍💻 All of my projects are available at [https://shlok.vercel.app](https://shlok.vercel.app)
+- 👨‍💻 some of my projects are available at [https://shlok.vercel.app](https://shlok.vercel.app)
 
 - 💬 Ask me about **next.js, python, postman**
 
