@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shlok</h1>
 <h3 align="center">A full stack developer & AI researcher from the bay</h3>
 
-- 🔭 I’m currently working on [HackPilot](https://www.hackpilot.io)
+- 🔭 I’m currently working on [Monet](https://monet.gg) — OAuth for AI subscriptions, so apps can run on their users' own ChatGPT/Claude accounts
+
+- 🛠️ I also run [HackPilot](https://www.hackpilot.io) and organize hackathons
 
 - 🌱 I’m currently learning **PyTorch, Nginx, LLM Training**
 
